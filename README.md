@@ -2,7 +2,7 @@
 <h1 align="center"><strong>✈️ Flight Ticket Trek</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Light+Management+System+for+Airlines;C%2B%2B+OOP+Project+%7C+Console-Based+App;Book%2C+Manage%2C+Cancel+Tickets+Easily" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Flight+Management+System+for+Airlines;C%2B%2B+OOP+Project+%7C+Console-Based+App;Book%2C+Manage%2C+Cancel+Tickets+Easily" />
 </div>
 
 <div align="center">
