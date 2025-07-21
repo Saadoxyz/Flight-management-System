@@ -137,11 +137,3 @@ g++ light_management_system.cpp -o flightApp
 ```
 
 ---
-
-Let me know if you want:
-
-* A separate section for sample code
-* An animated GIF of the terminal output
-* A dark-themed version
-
-Would you like me to save this as a Markdown file too?
